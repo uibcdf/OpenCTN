@@ -1,0 +1,14 @@
+channels:
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- python
+- setuptools
+- numpy
+- networkx
+- pyunitwizard
+- pytest
+- pip
+- pytest-cov
+- codecov

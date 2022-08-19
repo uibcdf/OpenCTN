@@ -10,11 +10,11 @@ class KineticTransitionsNetwork(Graph):
 
         super().__init__()
 
-    def add_transitions_from_discrete_chain(self, discrete_chain, states=None)
+    def add_transitions_from_discrete_chain(self, discrete_chain, states=None):
 
         pass
 
-    def get_stochastic_matrix(self, states=None)
+    def get_stochastic_matrix(self, states=None):
 
         pass
 

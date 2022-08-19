@@ -1,1 +1,1 @@
-from kinetic_transitions_network import KineticTransitionsNetwork
+from .kinetic_transitions_network import KineticTransitionsNetwork
