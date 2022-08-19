@@ -1,1 +1,1 @@
-# OpenTN
+# OpenKTN
